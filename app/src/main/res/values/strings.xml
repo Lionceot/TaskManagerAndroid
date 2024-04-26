@@ -1,0 +1,11 @@
+<resources>
+	<string name="app_name">TaskManagerAndroid</string>
+	<string name="app_title">Task Manager</string>
+	<string name="task_counter_label">Amount of open task :</string>
+	<string name="new_task_hint">What\'s your new task gonna be ?</string>
+	<string name="task_open_label">+</string>
+	<string name="task_close_label">x</string>
+
+	<string name="default_value">loading</string>
+	<string name="empty"></string>
+</resources>
